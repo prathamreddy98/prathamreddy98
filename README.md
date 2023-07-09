@@ -17,6 +17,7 @@ Currently pursuing Masters in Computer Science at SUNY Binghamton.<br>Having kee
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/prathamreddy37)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+https://twitter.com/prathamreddy37/status/1392190155969110016?s=20
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
